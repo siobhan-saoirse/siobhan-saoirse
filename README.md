@@ -6,4 +6,4 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: You can't
 - 😄 Pronouns: any
-- ⚡ Fun fact: kern3l is my wife and I love her
+- ⚡ Fun fact: kern3l is my wife and I love her so much.
