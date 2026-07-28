@@ -7,7 +7,7 @@
 - ⚡ **Fun fact:** kern3l is my wife and I love her so much. She is my big, beautiful fatty.
 
 ### ❓ Looking for Help
-I'm looking for guidance or collaborators with **TF2 gamemode development** and **implementing custom NPCs in TF2**. If you have experience in SourcePawn or TF2 modding, feel free to reach out!
+I'm looking for guidance or collaborators with **TF2 gamemode development** and **implementing HL2 NPCs in TF2**. If you have experience in SourcePawn or TF2 modding, feel free to reach out!
 
 ---
 
