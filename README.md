@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Team Fortress 2 Gamemode, and etcetera.
-- 🌱 I’m currently learning Lua, Sourcepawn, C++
-- 🤔 I’m looking for help with Team Fortress 2 Gamemode & NPCs in TF2
-- 💬 Ask me about anything.
-- 📫 How to reach me: YouTube or Bluesky
-- 😄 Pronouns: any
-- ⚡ Fun fact: kern3l is my wife and I love her so much.
+- 🔭 **Currently working on:** Team Fortress 2 Gamemode for GMod & other projects.
+- 🌱 **Currently learning:** Lua, SourcePawn, and C++.
+- 💬 **Ask me about:** Anything!
+- 📫 **How to reach me:** YouTube or Bluesky.
+- ⚡ **Fun fact:** kern3l is my wife and I love her so much. She is my big, beautiful fatty.
+
+### ❓ Looking for Help
+I'm looking for guidance or collaborators with **TF2 gamemode development** and **implementing custom NPCs in TF2**. If you have experience in SourcePawn or TF2 modding, feel free to reach out!
+
+---
+
+### 💬 Pronouns
+* **Any respectful pronouns:** I'm fine with masculine or feminine pronouns as long as it's harmless/good intent. (Malicious misgendering is not welcome.)
