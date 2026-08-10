@@ -12,4 +12,4 @@ I'm looking for guidance or collaborators with **TF2 gamemode development** and 
 ---
 
 ### 💬 Pronouns
-* **Any respectful pronouns:** I'm fine with masculine or feminine pronouns as long as it's harmless/good intent. (Malicious misgendering is not welcome.)
+* **Feminine pronouns:** I'm fine with feminine pronouns. (Malicious misgendering is not welcome.)
